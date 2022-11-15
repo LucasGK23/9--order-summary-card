@@ -2,7 +2,7 @@
 
 ## 📄 Sobre
 
-### Esse é um exercício da plataforma [Frontend Mentor](https://www.frontendmentor.io/) sobre um cartão Order Summary. Não aprendi algum ferramenta em específico, porém serviu para treinar e tentar melhorar a responsividade.
+### Esse é um exercício da plataforma [Frontend Mentor](https://www.frontendmentor.io/) sobre um cartão Order Summary. Não aprendi alguma ferramenta em específico, porém serviu para treinar e tentar melhorar a responsividade.
 
 ## 💻 Tecnologias Usadas
 
