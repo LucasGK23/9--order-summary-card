@@ -15,11 +15,11 @@
 
 
 
-![S](C:\Users\55949\Desktop\Estudos programação\order-summary-component-main\src\assets\desktop.png)
+![S](src\assets\desktop.png)
 
 ## 	:mobile_phone_off: MOBILE
 
-![MOBILE](C:\Users\55949\Desktop\Estudos programação\order-summary-component-main\src\assets\mobile.png)
+![MOBILE](src\assets\mobile.png)
 
 ## ✔ Desafio
 
