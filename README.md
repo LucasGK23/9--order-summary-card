@@ -15,11 +15,11 @@
 
 
 
-![S](src\assets\desktop.png)
+(src\assets\desktop.png)
 
 ## 	:mobile_phone_off: MOBILE
 
-![MOBILE](src\assets\mobile.png)
+(src\assets\mobile.png)
 
 ## ✔ Desafio
 
